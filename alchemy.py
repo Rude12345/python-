@@ -1,3 +1,7 @@
+"""Create a prototype of the game Alchemy: when two elements are connected, a new one is obtained."""
+""""Addition of elements to implement through __add__"""
+
+
 class Water:
 
     def __str__(self):
